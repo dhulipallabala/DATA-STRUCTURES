@@ -94,17 +94,3 @@ int main()
     Display (third);
   return 0;
 }
-Output:
-Program for Merging two Linked Lists using C Language
-
-Let us do some analysis. There is no extra linked list required here, so this is the benefit of merging upon linked list. It doesn’t require any extra space. In the case of an array, we need some extra space. Let’s say there are m elements in the first linked list and n elements in the second linked list so the time taken is θ(m+n).
-
-
-In the next article, I am going to discuss How to Check the Linked List Linear or Not in C Language with Examples. Here, in this article, I try to explain How to Merge two Linked Lists in C Language with Examples and I hope you enjoy this How to Merge two Linked Lists in C Language with Examples article.
-
-Previous Lesson
-How to Concatenate two Linked Lists
-Next Lesson
-How to Check Linked List is Linear or Not
-Leave a Reply
-Your email address will not b
